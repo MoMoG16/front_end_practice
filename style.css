@@ -1,0 +1,21 @@
+div {
+	width: 100px;
+	height: 50px;
+	color:white;
+
+}
+
+#one {
+	background-color:red;
+}
+
+#two {
+	background-color:blue;
+	text-align: right;
+}
+
+#three {
+	background-color:purple;
+	text-align: center;
+	font-size: 2em;
+}
